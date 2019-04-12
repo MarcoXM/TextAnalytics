@@ -57,6 +57,7 @@ news2Vec = news2vec(vocabulary,wiki_en,vocab_wiki)
 #Save the result      ####################
 ##########################################
 df =  pd.DataFrame(news2Vec)
+
 #df.to_csv('newsVectors_9223.csv') 
 
 
