@@ -24,10 +24,10 @@ Evaluation and Tuning<br>
 ## Implementation:
 By using the pre-train vecter into model and get the prediction
 
-![Guideline]( www )
+![Guideline](https://github.com/MarcoXM/TextAnalytics/blob/master/ProjectFinalProject/Graphes/Guideline.png)
 
 
-![Model Architecture]( www )
+![Model Architecture](https://github.com/MarcoXM/TextAnalytics/blob/master/ProjectFinalProject/Graphes/Model.png)
 
 ## NLP sources
 GloVe: Global Vectors for Word Representation[here](https://nlp.stanford.edu/projects/glove/)
