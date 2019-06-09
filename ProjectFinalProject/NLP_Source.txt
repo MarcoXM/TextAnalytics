@@ -1,0 +1,21 @@
+GloVe: Global Vectors for Word Representation
+
+https://nlp.stanford.edu/projects/glove/
+
+
+Leveraging Financial News for Stock Trend Prediction with Attention-Based Recurrent Neural Network
+https://paperswithcode.com/paper/leveraging-financial-news-for-stock-trend#code
+
+Bloomberg&Reuters News MetaData
+https://drive.google.com/drive/folders/0B3C8GEFwm08QY3AySmE2Z1daaUE
+
+https://aclweb.org/anthology/venues/acl/
+https://nips.cc/
+
+Multilabel Classification
+https://towardsdatascience.com/journey-to-the-center-of-multi-label-classification-384c40229bff
+https://medium.com/coinmonks/multi-label-classification-blog-tags-prediction-using-nlp-b0b5ee6686fc
+
+
+How to use Pre-trained Word Embeddings in PyTorch
+https://medium.com/@martinpella/how-to-use-pre-trained-word-embeddings-in-pytorch-71ca59249f76
